@@ -1,0 +1,27 @@
+.footer {
+    position: relative;
+    background-color: #29a4de; /* Set your preferred background color */
+    overflow: hidden;
+  }
+  
+  .star {
+    position: absolute;
+    width: 5px;
+    height: 5px;
+    background-color: #ffffff; /* Set the star color */
+    border-radius: 50%;
+    animation: twinkle 2s infinite;
+  }
+  
+  @keyframes twinkle {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  

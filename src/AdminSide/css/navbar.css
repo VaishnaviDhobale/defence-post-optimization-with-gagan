@@ -1,0 +1,19 @@
+.navContent {
+  margin-left: 30px;
+}
+.swiper-pagination {
+  position: relative;
+  top: 170px; /* Adjust the value as needed */
+}
+
+.dropdown * {
+  margin-bottom: 10px;
+}
+
+.dropdown *:hover {
+ border-bottom: 2px solid #003c64;
+}
+
+.resNav >div{
+  margin-top: 20px;
+}

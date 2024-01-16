@@ -1,0 +1,113 @@
+.navContent {
+  margin-left: 30px;
+}
+.swiper-pagination {
+  position: relative;
+  top: 170px; /* Adjust the value as needed */
+}
+
+.dropdown * {
+  margin-bottom: 10px;
+}
+
+.dropdown *:hover {
+ border-bottom: 2px solid #29a4de;
+}
+
+.view *:hover {
+  border-bottom: 2px solid #29a4de;
+  cursor: pointer;
+ }
+
+ /* Home run text start  */
+ .run{
+  white-space: nowrap;
+  overflow: hidden;
+  animation: charAnimation 0.5s steps(10, end) infinite; /* Adjust duration and steps as needed */
+}
+
+@keyframes charAnimation {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+ /* Home run text end */
+
+
+
+ /* review table design start  */
+ table{
+  border-collapse: collapse;
+ }
+ table thead th {
+  padding: 10px 30px;
+ }
+ table tbody td {
+  padding: 10px 30px;
+ }
+ table tbody {
+  border-top: 2px solid rgb(206, 201, 201);
+  border-Bottom: 2px solid rgb(206, 201, 201);
+ }
+ table tbody{
+  background-color: rgb(220, 215, 215);
+ }
+ table{
+  text-align: left;
+ }
+ /* review table design end  */
+
+
+ /* active navbar feild start */
+ .nav-link {
+  color: black; /* Default color for inactive links */
+  text-decoration: none;
+}
+
+.nav-link.active {
+  color: #29a4de; /* Color for the active link */
+
+ /* active navbar feild end */
+
+}
+
+/* home three course scale handle  */
+.hovered {
+  transform: scale(1.1); /* Increase the scale on hover */
+}
+
+
+
+
+/* spinner design  */
+.unique-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+.circle {
+  animation: spin 1.5s linear infinite, colorChange 3s infinite alternate;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes colorChange {
+  0% {
+    stroke: #007bff;
+  }
+  100% {
+    stroke: #ff6347;
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65b58b21.css",
+    "main.js": "/static/js/main.c1958213.js",
+    "static/js/787.f3b85b3c.chunk.js": "/static/js/787.f3b85b3c.chunk.js",
+    "static/media/HomePageImg.gif": "/static/media/HomePageImg.be59ccd80b54c86a1066.gif",
+    "static/media/mba.pdf": "/static/media/mba.761a093b071d851e0e3e.pdf",
+    "static/media/HomePageVideo.mp4": "/static/media/HomePageVideo.90dea97f6ead5eb6885d.mp4",
+    "static/media/Barlow-Black.ttf": "/static/media/Barlow-Black.5b6aa950a7733ff40634.ttf",
+    "static/media/Barlow-Bold.ttf": "/static/media/Barlow-Bold.0cb1ab864072bf9e0991.ttf",
+    "static/media/Barlow-Regular.ttf": "/static/media/Barlow-Regular.e7eb634d040a6f384033.ttf",
+    "static/media/Barlow-Thin.ttf": "/static/media/Barlow-Thin.ed7c51aed47c9fd3db93.ttf",
+    "static/media/Logo-black.jpeg": "/static/media/Logo-black.39a7ee205721d782af4e.jpeg",
+    "static/media/profile.png": "/static/media/profile.697fdcd21f6d157b9073.png",
+    "static/media/img.jpg": "/static/media/img.6d00fbbdea68965c23e9.jpg",
+    "static/media/DefencePostFooter.png": "/static/media/DefencePostFooter.b0527b02e0ca66447e89.png",
+    "index.html": "/index.html",
+    "main.65b58b21.css.map": "/static/css/main.65b58b21.css.map",
+    "main.c1958213.js.map": "/static/js/main.c1958213.js.map",
+    "787.f3b85b3c.chunk.js.map": "/static/js/787.f3b85b3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65b58b21.css",
+    "static/js/main.c1958213.js"
+  ]
+}
